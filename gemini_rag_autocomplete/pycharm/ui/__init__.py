@@ -1,0 +1,3 @@
+"""
+PyCharm UI components initialization.
+"""

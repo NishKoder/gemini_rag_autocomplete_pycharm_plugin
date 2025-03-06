@@ -1,0 +1,3 @@
+"""
+Pycharm tests initialization.
+"""

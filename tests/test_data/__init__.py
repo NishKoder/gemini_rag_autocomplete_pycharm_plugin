@@ -1,0 +1,3 @@
+"""
+Data tests initialization.
+"""

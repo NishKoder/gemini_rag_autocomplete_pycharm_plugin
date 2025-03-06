@@ -1,0 +1,3 @@
+"""
+Rag tests initialization.
+"""
